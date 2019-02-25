@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UpdateFrequency Value="60" />
+  <FeedStrings>
+    <FeedString URL="https://lenta.ru/rss/top7" />
+    <FeedString URL="https://habr.com/rss/interesting/" />
+  </FeedStrings>
+</root>

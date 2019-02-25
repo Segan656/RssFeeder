@@ -1,0 +1,10 @@
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.csprojResolveAssemblyReference.cache
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.Form1.resources
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.Properties.Resources.resources
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.csproj.GenerateResource.Cache
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.csproj.CoreCompileInputs.cache
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\bin\Debug\RSSFeeder.exe
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\bin\Debug\RSSFeeder.pdb
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.exe
+c:\users\serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.pdb
+C:\Users\Serge\source\repos\RSSFeeder\RSSFeeder\obj\Debug\RSSFeeder.ProgressBar.resources
